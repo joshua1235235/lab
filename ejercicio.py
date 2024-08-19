@@ -71,4 +71,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-#
+#Supongamos que estás manejando varias tareas personales como estudiar, hacer ejercicio, o realizar compras. Quieres llevar un control sencillo de estas tareas, organizarlas, marcarlas como completadas cuando las termines, y revisar cuáles te quedan por hacer.
+
